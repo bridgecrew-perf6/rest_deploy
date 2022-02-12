@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rest_deploy/static/css/main.b3304b24.css",
+    "main.js": "/rest_deploy/static/js/main.8208299b.js",
+    "index.html": "/rest_deploy/index.html",
+    "main.b3304b24.css.map": "/rest_deploy/static/css/main.b3304b24.css.map",
+    "main.8208299b.js.map": "/rest_deploy/static/js/main.8208299b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3304b24.css",
+    "static/js/main.8208299b.js"
+  ]
+}
